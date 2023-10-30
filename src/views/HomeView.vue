@@ -27,13 +27,27 @@ import Sidebar from "../components/Sidebar.vue";
         </li>
         <li>
           3. Menggali Potensi Ekonomi Kerakyatan yang Berbasis pemanfaatan SDM yang Kreatif dan Berkualitas meliputi
-          A. Pertanian
-          B. Perikanan
-          C. Peternakan
-          D. Olahraga
-          E. UMKM
-          F. Pariwisata
-          G. Kesenian dan Budaya;
+          </li>
+        <li>
+              A. Pertanian
+          </li>
+        <li>
+              B. Perikanan
+          </li>
+        <li>
+              C. Peternakan
+          </li>
+        <li>
+              D. Olahraga
+          </li>
+        <li>
+              E. UMKM
+          </li>
+        <li>
+              F. Pariwisata
+          </li>
+        <li>
+              G. Kesenian dan Budaya;
         </li>
         <li>
           4. Meningkatkan kepedulian terhadap Kesehatan Masyarakat dan Lingkungan;
