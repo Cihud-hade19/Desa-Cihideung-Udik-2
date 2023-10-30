@@ -26,40 +26,52 @@ import Sidebar from "../components/Sidebar.vue";
           2. Peningkatan Kualitas Pendidikan Keagamaan sebagai dasar terciptanya Generasi yang Berakhlak Mulia;
         </li>
         <li>
-          3. Menggali Potensi Ekonomi Kerakyatan yang Berbasis pemanfaatan SDM yang Kreatif dan Berkualitas meliputi
+          3. Menggali Potensi Ekonomi Kerakyatan yang Berbasis pemanfaatan SDM yang Kreatif dan Berkualitas meliputi;
           </li>
         <li>
-              A. Pertanian
+              - Pertanian;
           </li>
         <li>
-              B. Perikanan
+              - Perikanan;
           </li>
         <li>
-              C. Peternakan
+              - Peternakan;
           </li>
         <li>
-              D. Olahraga
+              - Olahraga;
           </li>
         <li>
-              E. UMKM
+              - UMKM;
           </li>
         <li>
-              F. Pariwisata
+              - Pariwisata;
           </li>
         <li>
-              G. Kesenian dan Budaya;
+              - Kesenian dan Budaya;
         </li>
         <li>
           4. Meningkatkan kepedulian terhadap Kesehatan Masyarakat dan Lingkungan;
         </li>
         <li>
-          5. Menciptakan Sumber Daya Manusia (SDM) yang berprestasi melalui sejumlah program Pembinaan dan Pelatihan, meliputi
-          A. Bidang Keagamaan
-          B. Kepemudaan
-          C. Olahraga
-          D. Kesenian
-          E. Ekonomi Kreatif
-          D. Budaya;
+          5. Menciptakan Sumber Daya Manusia (SDM) yang berprestasi melalui sejumlah program Pembinaan dan Pelatihan, meliputi;
+          </li>
+        <li>
+          - Bidang Keagamaan;
+          </li>
+        <li>
+          - Kepemudaan;
+          </li>
+        <li>
+          - Olahraga;
+          </li>
+        <li>
+          - Kesenian;
+          </li>
+        <li>
+          - Ekonomi Kreatif;
+          </li>
+        <li>
+          - Budaya;
         </li>
         <li>
         </li>
