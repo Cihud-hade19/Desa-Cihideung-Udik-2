@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-green-600 h-[300px] flex">
+  <div class="bg-red-600 h-[300px] flex">
     <img
       src="@/assets/logo-bogor.png"
       class="w-45 h-50 opacity-60 m-20"
@@ -15,7 +15,7 @@
       <iframe
         width="480"
         height="260"
-        src="https://www.youtube.com/embed/X8PyS6qav1s"
+        src="https://www.youtube.com/embed/DH8Po03sKkQ?si=59-ZntsdDB6qqNpX"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
