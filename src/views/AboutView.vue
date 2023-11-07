@@ -11,7 +11,7 @@ import Sidebar from "../components/Sidebar.vue";
     <Sidebar />
     <div class="flex-1 p-10">
       <p class="text-3xl font-semibold my-4">Struktur Desa</p>
-      <img src="@/assets/STRUKTUR DESA CIHIDEUNG UDIK-1.png" alt="" />
+      <img src="@/assets/struktur-desa-cihud.png" alt="" />
     </div>
   </main>
 </template>
